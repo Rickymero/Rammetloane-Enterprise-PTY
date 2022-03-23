@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <link  rel="stylesheet" type= "text/css" href="style.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,11 +12,15 @@
     <header>
         <nav>
             <img src="images/Rammetloane logo.png" id="logo"> 
-            <h1 id="head">RAMMETLOANE ENTERPRISE PTY       
+            <h1 id="head">RAMMETLOANE ENTERPRISE PTY 
+                <input type="checkbox" id="check">
+                <label for="check" class="checkbtn">
+                    <i class="fas fa-bars"></i>  
+                </label>    
                 <li>
-                    <ul><a href="">About</a></ul>
-                    <ul><a href="">Services</a></ul>
-                    <ul><a href="">Directions</a></ul>
+                    <ul><a href="#ourservice">About</a></ul>
+                    <ul><a href="#service">Services</a></ul>
+                    <ul><a href="https://goo.gl/maps/KmSeFNoCNFA8xYqx6">Directions</a></ul>
                     <ul><a href="">Gallary</a></ul>
                 </li>
             </h1>
@@ -38,7 +43,7 @@
                     padding-left: 40px;
                     padding-right: 40px; 
                     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-                    color:rgb(60, 114, 116);
+                    color: black;
                     font-size: 22px;
                     text-align: center;">
                 Rammetloane Enterprise was established in 2020 during covid-19 break out.
@@ -130,8 +135,8 @@
                 <p>Email: <a href="mailto:RammetloaneShadrack@gmail.com">RammetloaneShadrack@gmail.com</a></p>
             </div>
             <!--<div class="col">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3585.57796350218!2d28.196752414726536!3d-26.014638962610587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e956c0cae601ecd%3A0xc067c893c6b62bc2!2s!5e0!3m2!1sen!2sza!4v1647858500736!5m2!1sen!2sza" 
-                width="200" height="100" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3585.5800549995165!2d28.196700515026144!3d-26.01457048352264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5884243fb0724f1d!2zMjbCsDAwJzUyLjUiUyAyOMKwMTEnNTYuMCJF!5e0!3m2!1sen!2sza!4v1648025793350!5m2!1sen!2sza"
+                     width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>-->
         </div>
 
