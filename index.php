@@ -20,8 +20,8 @@
                 <li>
                     <ul><a href="#ourservice">About</a></ul>
                     <ul><a href="#service">Services</a></ul>
-                    <ul><a href="https://goo.gl/maps/KmSeFNoCNFA8xYqx6">Directions</a></ul>
                     <ul><a href="gallery.php">Gallery</a></ul>
+                    <ul><a href="https://goo.gl/maps/KmSeFNoCNFA8xYqx6">Directions</a></ul> 
                 </li>
             </h1>
         </nav>

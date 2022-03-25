@@ -17,11 +17,10 @@
                 <label for="check" class="checkbtn">
                     <i class="fas fa-bars"></i>  
                 </label>    
-                <li>
+                <li style="padding-right:60px;">
                     <ul><a href="index.php">Home</a></ul>
-                    <ul><a href="#ourservice">About</a></ul>
-                    <ul><a href="#service">Services</a></ul>
                     <ul><a href="https://goo.gl/maps/KmSeFNoCNFA8xYqx6">Directions</a></ul>
+                    <ul><a href="#contact">Contact Us</a></ul>
                 </li>
             </h1>
         </nav>
@@ -129,7 +128,7 @@
             </div>
 
             <div class="col">
-                <h2>Contact US</h2>
+                <h2 id="contact">Contact US</h2>
                 <p>Phone: +27 78 973 1952</p>
                 <p>Alternative: +27 65 818 7159</p>
                 <p>Email: <a href="mailto:RammetloaneShadrack@gmail.com">RammetloaneShadrack@gmail.com</a></p>
