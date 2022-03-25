@@ -21,7 +21,7 @@
                     <ul><a href="#ourservice">About</a></ul>
                     <ul><a href="#service">Services</a></ul>
                     <ul><a href="https://goo.gl/maps/KmSeFNoCNFA8xYqx6">Directions</a></ul>
-                    <ul><a href="">Gallary</a></ul>
+                    <ul><a href="gallery.php">Gallery</a></ul>
                 </li>
             </h1>
         </nav>
@@ -39,7 +39,7 @@
     <h2 id="ourservice">About US</h2>
     <div class="about">
         <div class="box1">
-            <p style="padding-top: 20px;
+            <p style="padding-top: 10px;
                     padding-left: 40px;
                     padding-right: 40px; 
                     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -61,10 +61,8 @@
         </div>
         <div id="box1">
             <img id ="owner" src="images/owner.jpg" height="230px" width="350px" style="background-size: cover;">
-        </div>
-        <div id="box1">
             <p style="
-                    padding-top: 20px;
+                    padding-top: 10px;
                     padding-left: 40px;
                     padding-right: 40px;
                     text-align: center;
