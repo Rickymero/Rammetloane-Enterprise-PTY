@@ -58,23 +58,33 @@
                 All our stuff is highly trained and qualified in power tools and working at
                 heights as well as building of scaffolding on site.
             </p>
+        </div>      
+    </div>
+    
+    <div id="row1">
+        <div id="service" style="border-radius: 0px; height:250px; padding-top: 10px">
+            <h3>Shady Serite (Founder & CEO)</h3>
+            <img src="images/owner.jpg" alt="Shady" height="130px" width="200px" style="float:left;
+            padding-left: 20px;">
+            <p id="">
+            Did You Know: Interior shutters<br> 
+            fit snugly to your windows <br>
+            and have slats called louvers. <br>
+            Most louvers can be closed <br>
+            completely or slanted to let<br>
+            in filtered light.
+            </p>
         </div>
-        <div id="box1">
-            <img id ="owner" src="images/owner.jpg" height="230px" width="350px" style="background-size: cover;">
-            <p style="
-                    padding-top: 10px;
-                    padding-left: 40px;
-                    padding-right: 40px;
-                    text-align: center;
-                    font-size: 14px;
-                    color: black;">
-                Did You Know: Interior shutters fit snugly to your windows and have slats
-                called louvers. Most louvers can be closed completely or slanted to let in
-                filtered light.
+        <div id="service" style="border-radius: 0px; height:250px; padding-top: 10px">
+            <h3>Why Choose Us</h3>
+            <p id="">
+            We know what works, What <br> does not work, and we pay <br>attention to even 
+            the smallest details. <br>Working with our customers to <br>ensure that they are happy,<br> 
+            with a high return on their investments.
             </p>
         </div>
     </div>
-   
+
     <h2 id="ourservice">Our Services</h2>
     <div id="row1">
         <div id="service">
