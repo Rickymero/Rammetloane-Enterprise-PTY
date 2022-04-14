@@ -61,6 +61,9 @@ li a:active{
         height: 80px;
         width: 25%;
     }
+    #head{
+        font-size: 8px;
+    }
     nav ul li a{
         font-size: 14px;
     }
