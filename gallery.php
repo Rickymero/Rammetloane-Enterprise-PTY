@@ -20,7 +20,7 @@
                 <li style="padding-right:60px;">
                     <ul><a href="index.php">Home</a></ul>
                     <ul><a href="https://goo.gl/maps/KmSeFNoCNFA8xYqx6">Directions</a></ul>
-                    <ul><a href="#contact">Contact Us</a></ul>
+                    <ul><a href="tel:+27 78 973 1952"><i class="fas fa-mobile-alt"></i> <span class="ml-1">Contact US</span></a></ul>
                 </li>
             </h1>
         </nav>
