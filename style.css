@@ -75,6 +75,9 @@ li a:active{
     nav ul li a{
         font-size: 14px;
     }
+    #copyright{
+        font-size: 8px;
+    }
 }
 @media (max-width: 952px){
     .checkbtn{
