@@ -13,7 +13,7 @@
 <header>
         <nav>
             <img src="images/Rammetloane logo.png" id="logo"> 
-            <h1 id="head">RAMMETLOANE ENTERPRISE PTY 
+            <h1><label class="head">RAMMETLOANE ENTERPRISE PTY</label>
                 <input type="checkbox" id="check">
                 <label for="check" class="checkbtn">
                     <i class="fas fa-bars"></i>  

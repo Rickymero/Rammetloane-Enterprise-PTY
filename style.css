@@ -75,9 +75,20 @@ li a:active{
     nav ul li a{
         font-size: 14px;
     }
+    #gallary{
+        flex-grow: 1;
+        height: 100px;
+        min-width:50px;
+        margin-top: 5px;
+        /*Text style*/
+        text-align: center;
+        font-family:cursive;
+    
+      }
     #copyright{
         font-size: 8px;
     }
+
 }
 @media (max-width: 952px){
     .checkbtn{
