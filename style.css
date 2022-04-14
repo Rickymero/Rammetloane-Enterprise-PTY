@@ -1,6 +1,7 @@
 /*CSS for the main page*/
-#head{
+.head{
     margin-top: 0px;
+    font-size: 8px;
 }
 body{
     margin: 0px;
@@ -61,8 +62,8 @@ li a:active{
         height: 80px;
         width: 25%;
     }
-    #head{
-        font-size: 8px;
+    .head{
+        font-size: 12px;
     }
     nav ul li a{
         font-size: 14px;
