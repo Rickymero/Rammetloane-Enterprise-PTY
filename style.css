@@ -43,11 +43,13 @@ li a{
     text-decoration: none;
     padding: 5px;
     color: black;
+    border: solid 1px rgb(0, 95, 153);
+    border-radius: 12px;
 }
 li a:hover{
     border: solid 1px black;
     border-radius: 15px;
-    color:rgb(109, 138, 5);
+    color:rgb(0, 95, 153);
 }
 li a:active{
     border: solid 1px lightblue;
@@ -127,7 +129,7 @@ li a:active{
     height: 800px;
     margin-top: 0px;
     padding-top: 0px;
-    /*animation: zoom 3s linear infinite;*/
+    animation: zoom 3s linear infinite;
 }
 .content h1{
     text-align: center;
@@ -236,6 +238,8 @@ p a{
     /*Text style*/
     text-align: center;
     font-family:cursive;
+    /*Animation*/
+    animation:zoom 3s linear infinite;
 
 }
 #footer{
@@ -350,7 +354,7 @@ p a{
 	background-color:rgb(115, 151, 151);
 	animation-name: example;
 	animation-duration: 4s;
-	
+	animation:zoom 3s linear infinite;
   }
   
   @keyframes example {
