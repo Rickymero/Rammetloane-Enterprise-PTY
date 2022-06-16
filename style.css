@@ -97,7 +97,7 @@ li a:active{
         width: 25%;
     }
     .head{
-        font-size: 15px;
+        font-size: 12px;
     }
     nav ul li a{
         font-size: 14px;
@@ -308,6 +308,8 @@ p a{
 /*Animation for welcome Text*/
 #slogan{
     animation: text-shadow 3s ease-in-out infinite;
+    font-family:Impact,'Arial Narrow Bold', sans-serif;
+    
     line-height: 1;
 }
 #slogan:hover {
@@ -316,7 +318,9 @@ p a{
 
 #welcome {
     animation: text-shadow 3s ease-in-out infinite;
+    font-family:Impact,'Arial Narrow Bold', sans-serif;
     font-size: 3em;
+    
     line-height: 1;
 }
 
