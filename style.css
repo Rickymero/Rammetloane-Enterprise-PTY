@@ -65,6 +65,31 @@ li a:active{
 #check{
     display: none;
 }
+/*Heading Animation*/
+.head
+{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #e46db8 0%,
+    #f18f57 29%,
+    #605d5e 67%,
+    #857fea 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 20% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 10s linear infinite;
+  display: inline-block;
+      font-size: 30px;
+}
+
+
 
 @media (max-width: 853px){
     #logo{
@@ -72,7 +97,7 @@ li a:active{
         width: 25%;
     }
     .head{
-        font-size: 12px;
+        font-size: 15px;
     }
     nav ul li a{
         font-size: 14px;
@@ -129,7 +154,6 @@ li a:active{
     height: 800px;
     margin-top: 0px;
     padding-top: 0px;
-    animation: zoom 3s linear infinite;
 }
 .content h1{
     text-align: center;
@@ -238,8 +262,7 @@ p a{
     /*Text style*/
     text-align: center;
     font-family:cursive;
-    /*Animation*/
-    animation:zoom 3s linear infinite;
+    
 
 }
 #footer{
@@ -254,7 +277,16 @@ p a{
 }
 
 
+
+
 /*Animationa starts here for the Index Page*/
+/*Animation for Welcome Text */
+@keyframes textclip {
+    to {
+      background-position: 200% center;
+    }
+  }
+
 /*Animation for wrapper image */
 @keyframes zoom{
 	
@@ -354,12 +386,12 @@ p a{
 	background-color:rgb(115, 151, 151);
 	animation-name: example;
 	animation-duration: 4s;
-	animation:zoom 3s linear infinite;
+	
   }
   
   @keyframes example {
-	from {background-color: rgb(115, 151, 151);}
-	to {background-color:rgb(109, 230, 109);}
+	from {background-color: rgb(207, 205, 140);}
+	to {background-color:rgb(115, 151, 151);}
   }
 
 
