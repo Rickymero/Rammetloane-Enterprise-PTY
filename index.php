@@ -30,13 +30,17 @@
         </nav>
     </header>
     <section>
-        <div class="wrapper" id ="slideImg">
+        <div class="wrapper">
             
             <div class="content">
                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
                 <br><br><br><br><br><br><br><br>
                 <h1 id="welcome">Welcome To Rammetloane Enterprise PTY</h1>
                 <h3 id="slogan">Your one stop for Home and Business solutions</h3>
+                <br><br>
+                <li>
+                    <ul><a href="">More Info</a>&nbsp;&nbsp;<a href="">Explore</a></ul>
+                </li>
             </div>
         </div>
     </section>

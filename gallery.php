@@ -33,83 +33,87 @@
                 <br><br><br><br><br><br><br><br>
                 <h1 id="welcome">Welcome To Rammetloane Enterprise PTY</h1>
                 <h3 id="slogan">Your one stop for Home and Business solutions</h3>
+                <br><br>
+                <li>
+                    <ul><a href="">More Info</a>&nbsp;&nbsp;<a href="">Explore</a></ul>
+                </li>
             </div>
         </div>
     </section>
     <h2 style="text-align:center">Our Gallery</h2>
     <div id="row1">
         <div id="gallary">
-            <img src="images/carport1.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Carport</p>
+            <img src="images/carport1.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Carport</p>
         </div>
         <div id="gallary">
-            <img src="images/carport2.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Carport</p>
+            <img src="images/carport2.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Carport</p>
         </div>
         <div id="gallary">
-            <img src="images/IMG-20220316-WA0007.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Carport</p>
+            <img src="images/IMG-20220316-WA0007.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Carport</p>
         </div>
         <div id="gallary">
-            <img src="images/carport4.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Carport</p>
+            <img src="images/carport4.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Carport</p>
         </div>
     </div>
     <div id="row1">
         <div id="gallary">
-            <img src="images/IMG-20220316-WA0014.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Shadeport</p>
+            <img src="images/IMG-20220316-WA0014.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Shadeport</p>
         </div>
         <div id="gallary">
-            <img src="images/carport3.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Shadeport</p>
+            <img src="images/carport3.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Shadeport</p>
         </div>
         <div id="gallary">
-            <img src="images/IMG-20220316-WA0008.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Shadeport</p>
+            <img src="images/IMG-20220316-WA0008.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Shadeport</p>
         </div>
         <div id="gallary">
-            <img src="images/IMG-20220316-WA0011.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Shadeport</p>
+            <img src="images/IMG-20220316-WA0011.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Shadeport</p>
         </div>
     </div>
     <div id="row1">
         <div id="gallary">
-            <img src="images/IMG-20220316-WA0035.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Blinds</p>
+            <img src="images/IMG-20220316-WA0035.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Blinds</p>
         </div>
         <div id="gallary">
-            <img src="images/IMG-20220316-WA0036.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Blinds</p>
+            <img src="images/IMG-20220316-WA0036.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Blinds</p>
         </div>
         <div id="gallary">
-            <img src="images/IMG-20220316-WA0037.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Blinds</p>
+            <img src="images/IMG-20220316-WA0037.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Blinds</p>
         </div>
         <div id="gallary">
-            <img src="images/IMG-20220316-WA0038.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Blinds</p>
+            <img src="images/IMG-20220316-WA0038.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Blinds</p>
         </div>
     </div>
     <div id="row1">
         <div id="gallary">
-            <img src="images/IMG-20220316-WA0039.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Blinds</p>
+            <img src="images/IMG-20220316-WA0039.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Blinds</p>
         </div>
         <div id="gallary">
-            <img src="images/IMG-20220316-WA0040.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Blinds</p>
+            <img src="images/IMG-20220316-WA0040.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Blinds</p>
         </div>
         <div id="gallary">
-            <img src="images/IMG-20220316-WA0041.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Blinds</p>
+            <img src="images/IMG-20220316-WA0041.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Blinds</p>
         </div>
         <div id="gallary">
-            <img src="images/IMG-20220316-WA0034.jpg" height="200px" width="200px" alt="carport">
-            <p style="color:black">Blinds</p>
+            <img src="images/IMG-20220316-WA0034.jpg" height="200px" width="300px" alt="carport">
+            <p style="color:black; background-color: white; padding: 5px;">Blinds</p>
         </div>
     </div>
-    <br><br><br><br>
+    <br><br><br>
 
     <footer id="footer">
         <div id="row">
