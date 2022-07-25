@@ -21,10 +21,10 @@
                     <i class="fas fa-bars"></i>  
                 </label>    
                 <li>
-                    <ul><a href="#service"><i class="fa-solid fa-blender-phone"></i>&nbsp;Services</a></ul>
-                    <ul><a href="gallery.php"><i class="fa-brands fa-envira"></i>&nbsp;Gallery</a></ul>
-                    <ul><a href="https://goo.gl/maps/KmSeFNoCNFA8xYqx6"><i class="fa-solid fa-location-arrow"></i>&nbsp;Directions</a></ul>
-                    <ul><a href="tel:+27 78 973 1952"><i class="fas fa-mobile-alt"></i> <span class="ml-1">Contact US</span></a></ul>
+                    <ul><a href="#service"><!--<i class="fa-solid fa-blender-phone"></i>-->&nbsp;SERVICE</a></ul>
+                    <ul><a href="gallery.php"><!--<i class="fa-brands fa-envira"></i>-->&nbsp;GALLERY</a></ul>
+                    <ul><a href="https://goo.gl/maps/KmSeFNoCNFA8xYqx6"><!--<i class="fa-solid fa-location-arrow"></i>-->&nbsp;DIRECTIONS</a></ul>
+                    <ul><a href="tel:+27 78 973 1952"><!--<i class="fas fa-mobile-alt"></i>--> <span class="ml-1">CONTACT US</span></a></ul>
                 </li>
             </h1>
         </nav>
@@ -43,14 +43,14 @@
     <h2 id="ourservice">About US</h2>
     <div class="about">
         <div class="box1">
-            <p style="padding-top: 10px;
-                    padding-left: 40px;
+            <h2 style="text-align:left; padding-left:60px; font-family: Arial; font-size: 2em;">
+            Rammetloane Enterprise was established<br> in 2020 during covid-19 break out.</h2>
+            <p style="padding-left: 40px;
                     padding-right: 40px; 
                     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
                     color: black;
                     font-size: 22px;
                     text-align: center;">
-                Rammetloane Enterprise was established in 2020 during covid-19 break out.
                 Our core business is manufacturing, supply, and erection of Shadeports and
                 Carports used for the protection of the motor vehicles against Sun and Hail
                 as well as shade net used in the agriculture sector. We also do maintenance 

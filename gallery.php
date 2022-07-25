@@ -19,9 +19,9 @@
                     <i class="fas fa-bars"></i>  
                 </label>    
                 <li style="padding-right:60px;">
-                    <ul><a href="index.php"><i class="fa-solid fa-house"></i>&nbsp;Home</a></ul>
-                    <ul><a href="https://goo.gl/maps/KmSeFNoCNFA8xYqx6"><i class="fa-solid fa-location-arrow"></i>&nbsp;Directions</a></ul>
-                    <ul><a href="tel:+27 78 973 1952"><i class="fas fa-mobile-alt"></i> <span class="ml-1">Contact US</span></a></ul>
+                    <ul><a href="index.php"><!--<i class="fa-solid fa-house"></i>-->&nbsp;Home</a></ul>
+                    <ul><a href="https://goo.gl/maps/KmSeFNoCNFA8xYqx6"><!--<i class="fa-solid fa-location-arrow"></i>-->&nbsp;DIRECTIONS</a></ul>
+                    <ul><a href="tel:+27 78 973 1952"><!--<i class="fas fa-mobile-alt"></i>--> <span class="ml-1">CONTACT US</span></a></ul>
                 </li>
             </h1>
         </nav>

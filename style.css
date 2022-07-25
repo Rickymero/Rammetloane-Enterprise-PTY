@@ -25,6 +25,7 @@ nav li{
     float: right;
     color: black;
     font-family: monospace;
+    font-weight: bold;
     padding-right: 30px;
     margin-top: 0px;
     padding-top: 0px;
@@ -43,13 +44,11 @@ li a{
     text-decoration: none;
     padding: 5px;
     color: black;
-    border: solid 1px rgb(0, 95, 153);
-    border-radius: 12px;
 }
 li a:hover{
     border: solid 1px black;
     border-radius: 15px;
-    color:rgb(0, 95, 153);
+    color:black;
 }
 li a:active{
     border: solid 1px lightblue;
@@ -128,7 +127,7 @@ li a:active{
         background: white;
         top: 105px;
         left: -120%;
-        text-align: center;
+        text-align: right;
         transition: all .5s;
     }
     nav li{
@@ -142,7 +141,7 @@ li a:active{
     #check:checked ~ li{
         left: 0;
     }
-    li a:checked ~ li{
+    .checkbtn:checked ~ i{
         left: -120%;
     }
 }
@@ -190,7 +189,8 @@ p a{
 }
 
 .about > div{
-    background-color: rgb(238, 228, 88);
+    /*background-color: rgb(238, 228, 88);
+    */
     
 }
 /*.about{
@@ -212,17 +212,17 @@ p a{
     justify-content: center;
     align-items: center;
     gap: 2em;
-    padding: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .box1{
     flex-grow: 1;
     min-height: 300px;
     min-width:100px;
-    margin-top: 5px;
     border-radius: 12px;
     /*Text style*/
     text-align: center;
-    font-family:cursive;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #list{
@@ -387,15 +387,15 @@ p a{
 /*Animations for service section*/
 
 #service{
-	background-color:rgb(115, 151, 151);
+	background-color:rgb(176, 174, 106);
 	animation-name: example;
-	animation-duration: 4s;
+	animation-duration: 10s;
 	
   }
   
   @keyframes example {
-	from {background-color: rgb(207, 205, 140);}
-	to {background-color:rgb(115, 151, 151);}
+	from {background-color: rgb(115, 151, 151);}
+	to {background-color:rgb(207, 205, 140);}
   }
 
 
